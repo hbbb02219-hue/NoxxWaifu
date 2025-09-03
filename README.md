@@ -11,7 +11,20 @@ Welcome to **Wafu Catcher Bot**! A fun and interactive bot that lets you **colle
 - ⚔ **Waifu Battles** - Challenge friends in epic battles.
 - 🏅 **Achievements** - Unlock rare badges for special milestones.
 - 🛒 **Shop & Upgrades** - Buy items to boost your waifu collection.
+## 🚀 Deploy on Heroku
 
+Follow the steps below to deploy this project on [Heroku](https://www.heroku.com/).
+
+### Prerequisites
+- A [Heroku](https://signup.heroku.com/) account
+- [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli) installed
+- Git installed
+
+### Steps
+
+1. **Login to Heroku**
+   ```bash
+   heroku login
 ---
 
 ## 🚀 Installation Guide
